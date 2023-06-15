@@ -1,0 +1,31 @@
+.banner {
+  margin-top: 64px;
+  background-color: #000000;
+  padding: 24px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner-h {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.banner-p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  color: #ffffff;
+  margin-top: 12px;
+}
+.banner-btn {
+  background: #286daf;
+  border-radius: 2px;
+  padding: 12px 24.79px 13px 29px;
+  color: #ffffff;
+}

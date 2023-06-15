@@ -1,0 +1,15 @@
+.spotloght {
+  margin-top: 60px;
+}
+.spotHeading {
+  text-align: center;
+}
+.spotContent {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+}
+.para {
+  text-align: center;
+}

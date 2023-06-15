@@ -1,0 +1,39 @@
+.ai {
+  margin-top: 64px;
+}
+.ai-h {
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 45px;
+  color: #36383c;
+  text-align: center;
+}
+.ai-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.aiData-h {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #36383c;
+  text-align: center;
+}
+.ai-para {
+  max-width: 350px;
+  width: 100%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+  color: #4e5153;
+  text-align: center;
+}
+.ai-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
